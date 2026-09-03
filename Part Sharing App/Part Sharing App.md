@@ -15,3 +15,7 @@
     - Store transaction log on a server that we will host
 - View a list of all parts that have been loaned out or borrowed in along with loan date and lease time
 - App should list our team as the author (FTC Team #25310 Pinelands Stingers)
+
+Further Scoping done on 25 August:
+[[App Scoping]]
+

@@ -18,13 +18,13 @@ Written so you can drop it into your engineering notebook close to as-is — FTC
 
 Your spec says "store the log on a server we host." Weigh that against Firebase honestly before locking it in:
 
-| | **Firebase (managed)** | **Self-hosted (Node/Express or Supabase+Postgres on Render/Railway/Fly)** |
-|---|---|---|
-| Keeps running after this year's team graduates | Google's problem | Whoever inherits the repo — the classic student-project failure mode |
-| Ongoing ops work | Near zero | Real: dependency updates, uptime, backups |
-| Cost | Auth, Firestore, and Cloud Messaging stay free, no card. Storage now needs a linked card — see callout below | Free tiers exist but are limited (sleep on inactivity, small caps); a small always-on Postgres often lands around $5–7/month |
-| "We built a custom backend" story for judging | Weaker — it's a managed service | Stronger, if your award category specifically rewards it |
-| Learning curve for a beginner team | Lower — best-documented path for exactly this stack | Higher — you're also now responsible for API design, auth, and deployment |
+|                                                | **Firebase (managed)**                                                                                       | **Self-hosted (Node/Express or Supabase+Postgres on Render/Railway/Fly)**                                                    |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Keeps running after this year's team graduates | Google's problem                                                                                             | Whoever inherits the repo — the classic student-project failure mode                                                         |
+| Ongoing ops work                               | Near zero                                                                                                    | Real: dependency updates, uptime, backups                                                                                    |
+| Cost                                           | Auth, Firestore, and Cloud Messaging stay free, no card. Storage now needs a linked card — see callout below | Free tiers exist but are limited (sleep on inactivity, small caps); a small always-on Postgres often lands around $5–7/month |
+| "We built a custom backend" story for judging  | Weaker — it's a managed service                                                                              | Stronger, if your award category specifically rewards it                                                                     |
+| Learning curve for a beginner team             | Lower — best-documented path for exactly this stack                                                          | Higher — you're also now responsible for API design, auth, and deployment                                                    |
 
 **[Updated] The free-tier picture changed since the earlier pass in this conversation.** Since February 2026, Firebase projects on the no-cost Spark plan have lost access to Cloud Storage entirely — buckets return errors until the project is upgraded to the pay-as-you-go Blaze plan. Practically:
 

@@ -1,5 +1,6 @@
 [Claude Convo](https://claude.ai/chat/deb710df-c36c-4c01-b491-987ff73e86fe)
 Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_03-09-2026]]
+[Github repo of app](https://github.com/Pinelands-Stingers/FTC-Equipment-Tracker)
 ### App Key Features
 - Pull the full list of registered teams in South Africa
 - Log swap/share events
@@ -19,4 +20,4 @@ Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_03-09-2026]]
 Further Scoping done on 25 August:
 [[App Scoping]]
 
-An MVP created on 03/09/2026.
+First functional version created on 03/09/2026.

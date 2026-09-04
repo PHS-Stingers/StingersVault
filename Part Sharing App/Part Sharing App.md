@@ -1,7 +1,6 @@
-[Claude Convo](https://claude.ai/chat/deb710df-c36c-4c01-b491-987ff73e86fe)
-Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_03-09-2026]]
-[Github repo of app](https://github.com/Pinelands-Stingers/FTC-Equipment-Tracker)
-Day by day progress here: [[App Progress]]
+- [Claude Convo](https://claude.ai/chat/deb710df-c36c-4c01-b491-987ff73e86fe)
+- [Github repo of app](https://github.com/Pinelands-Stingers/FTC-Equipment-Tracker)
+- Day by day progress here: [[App Progress]]
 ### App Key Features
 - Pull the full list of registered teams in South Africa
 - Log swap/share events

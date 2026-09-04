@@ -1,4 +1,8 @@
-## 04/09-2026 Progress:
+## 03/09/2026 Progress:
+Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_03-09-2026]]
+
+## 04/09/2026 Progress:
+Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_04-09-2026]]
 ### Project foundation
 
 - Scaffolded the full Android app: Kotlin + Jetpack Compose, `minSdk` 26, package `za.org.team25310.ftcequipmenttracker`

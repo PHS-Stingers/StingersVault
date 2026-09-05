@@ -2,7 +2,7 @@
 Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_03-09-2026]]
 
 ## 04/09/2026 Progress:
-Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_04-09-2026]]
+Chat with Deepseek for this day: [[ftc-parts-loan-tracking-app-planning_04-09-2026]]
 ### Project foundation
 
 - Scaffolded the full Android app: Kotlin + Jetpack Compose, `minSdk` 26, package `za.org.team25310.ftcequipmenttracker`
@@ -45,3 +45,8 @@ Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_04-09-2026]]
 - Read the engineering scoping document and produced a feature checklist + phased implementation plan
 - Locked decisions: roles-first build, two-person sign-off, keep Firestore-base64 photos, single-part loans
 - Delivered Firestore security rules (roles + email verification + invite codes) and Firebase setup walkthrough
+
+## 05/09/2026 Progress:
+Chat with Deepseek for this day: [[ftc-parts-loan-tracking-app-planning_05-09-2026]]
+
+Implemented FTC Event API for loading teams.

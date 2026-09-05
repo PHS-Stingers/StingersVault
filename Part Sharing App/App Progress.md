@@ -45,3 +45,4 @@ Chat with Deepseek so far: [[ftc-parts-loan-tracking-app-planning_04-09-2026]]
 - Read the engineering scoping document and produced a feature checklist + phased implementation plan
 - Locked decisions: roles-first build, two-person sign-off, keep Firestore-base64 photos, single-part loans
 - Delivered Firestore security rules (roles + email verification + invite codes) and Firebase setup walkthrough
+- Emailed Studica, REV & goBUILDA to officially ask for a compromise by which we could gain access to their part names and SKUs

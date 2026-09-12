@@ -5,10 +5,10 @@
 - [ ] Devise an intake for the pollen
 - [ ] Implement deadwheels
 - [ ] Read the advance rules
-- [ ] Produce 4 x legal sign for red and blue alliance (Rules 12.4)
-- [ ] Create an online tool to help teams track what equipment has been borrowed to other teams
+- [x] Produce 4 x legal sign for red and blue alliance (Rules 12.4)
+- [x] Create an online tool to help teams track what equipment has been borrowed to other teams
 - [ ] Audit current equipment
-- [ ] Test Expansion Hub connection via USB to Control Hub
+- [x] Test Expansion Hub connection via USB to Control Hub
 - [ ] Investigate wifi issues
 
 ### CAD Project 

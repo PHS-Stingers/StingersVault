@@ -11,4 +11,4 @@
 
 [EMERGENCY USE ONLY: Control Hub and Expansion Hub can be connected via USB but it isn't robust enough to handle FTC matches](https://www.reddit.com/r/FTC/comments/1i7pdz5/is_it_legal_to_connect_expansion_with_control_hub/)
 
-Heyyyyyyyy
+Yeah!

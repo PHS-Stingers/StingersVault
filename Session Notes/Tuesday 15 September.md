@@ -12,7 +12,7 @@ Elements Max - 19
 Elements Min - 7
 
 Difference Max: 19 points difference which can be made up by an additional tipping of the hive so flowers are a no-go
-## Designed base for intake
+## Designed robot base and intake
 ### Issues ran into
 The frame where the intake is attached is lower than last season because pollen is smaller but it needs to be equally as far forward so we had an issue where the axles couldn't go over the wheels (because they would interfere) to a great extent which led us to using two shorter axles rather than one longer one.
 This led to the issue that we couldn't attach a motor at the same hole in the channel as the axle for the intake because we needed the space in the channel for shaft collars to secure it because we didn't have space on the outside due to the wheels.

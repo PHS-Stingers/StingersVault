@@ -60,7 +60,7 @@ Elements Min - 7
 
 Difference Max: 19 points difference which can be made up by an additional tipping of the hive so flowers are a no-go
 
-- [ ] Figure out where to get surgical tubing
+- [x] Figure out where to get surgical tubing
 - [x] Adjust Frame
 - [x] Secure frame
 - [x] Math for compression for intake
@@ -70,22 +70,22 @@ Difference Max: 19 points difference which can be made up by an additional tippi
 - [x] Test app
 - [x] Look into booking time on the field
 ### Wednesday:
-- [ ] Make surgical tubing intake
-- [ ] Make gecko wheel intake
-- [ ] Attach intakes
+- [x] Make surgical tubing intake
+- [x] Make gecko wheel intake
+- [x] Attach intakes
 - [ ] Design Janky Ramp
 	- [ ] Funnel
 	- [ ] Above ground
 	- [ ] Design Temp Transfer system
-- [ ] Design Flywheel
-- [ ] Look for bearing
-- [ ] Possibly remove the random U-Channel
-- [ ] Test app
-- [ ] Simple Auto
-	- [ ] Leave Line
-	- [ ] Move to park
+- [x] Design Flywheel
+- [x] Look for bearing
+- [x] Possibly remove the random U-Channel
+- [x] Test app
+- [x] Simple Auto
+	- [x] Leave Line
+	- [x] Move to park
 ### Thursday:
-- [ ] Attach intakes
+- [x] Attach intakes
 - [ ] Do intake code
 - [ ] Implement Janky Ramp
 - [ ] Look for bearing
@@ -93,7 +93,7 @@ Difference Max: 19 points difference which can be made up by an additional tippi
 - [ ] Take equipment
 - [ ] Mount Hubs
 - [ ] Mount Battery
-- [ ] Attach flywheel
+- [x] Attach flywheel
 ### Friday:
 - [ ] Simple Auto
 	- [ ] Shoot pollen

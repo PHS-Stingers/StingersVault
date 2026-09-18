@@ -28,3 +28,8 @@ U-Frame with Reinforced corners
 ### Plans for the future
 Add second droidan intake wheel for transfer
 Reinforce frame with cross bar
+
+
+# 5 Hours - 
+08h00 - 12h00
+20h00 - 21h00

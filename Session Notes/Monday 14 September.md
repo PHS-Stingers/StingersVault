@@ -65,7 +65,7 @@ Difference Max: 19 points difference which can be made up by an additional tippi
 - [x] Secure frame
 - [x] Math for compression for intake
 - [x] Design intakes
-- [ ] Look for bearing
+- [x] Look for bearing
 - [x] Look into insta outreach
 - [x] Test app
 - [x] Look into booking time on the field
@@ -73,10 +73,10 @@ Difference Max: 19 points difference which can be made up by an additional tippi
 - [x] Make surgical tubing intake
 - [x] Make gecko wheel intake
 - [x] Attach intakes
-- [ ] Design Janky Ramp
-	- [ ] Funnel
-	- [ ] Above ground
-	- [ ] Design Temp Transfer system
+- [x] Design Janky Ramp
+	- [x] Funnel
+	- [x] Above ground
+	- [x] Design Temp Transfer system
 - [x] Design Flywheel
 - [x] Look for bearing
 - [x] Possibly remove the random U-Channel
@@ -86,23 +86,24 @@ Difference Max: 19 points difference which can be made up by an additional tippi
 	- [x] Move to park
 ### Thursday:
 - [x] Attach intakes
-- [ ] Do intake code
-- [ ] Implement Janky Ramp
-- [ ] Look for bearing
-- [ ] Test App
-- [ ] Take equipment
-- [ ] Mount Hubs
+- [x] Do intake code
+- [x] Implement Janky Ramp
+- [x] Look for bearing
+- [x] Test App
+- [x] Take equipment
+- [x] Mount Hubs
 - [ ] Mount Battery
 - [x] Attach flywheel
 ### Friday:
-- [ ] Simple Auto
-	- [ ] Shoot pollen
-- [ ] Drive Code
+- [x] Simple Auto
+	- [x] Shoot pollen
+- [x] Drive Code
 - [ ] Test systems together
 - [ ] Keep trailing
 - [ ] Trail on the field
 ### Saturday:
-
-### Sunday:
-- [ ] Release App
+- [ ] Reveal App
 - [ ] Scrimmage
+
+# 3.5 Hours
+15H00 - 18h30

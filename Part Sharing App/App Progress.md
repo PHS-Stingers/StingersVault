@@ -53,4 +53,9 @@ Chat with Deepseek for this day: [[ftc-parts-loan-tracking-app-planning_04-09-20
 Chat with Deepseek for this day: [[ftc-parts-loan-tracking-app-planning_05-09-2026]]
 
 Implemented FTC Event API for loading teams.
->>>>>>> origin/main
+
+## 21/09/2026 Progress:
+Main chat with Deepseek for this day: [[ftc-parts-loan-tracking-app-planning_21-09-2026]]
+Site scraper chat: [[Site-scraper-for-parts-list_21-09-2026]]
+
+Also added releases to the github repo: [releases](https://github.com/Pinelands-Stingers/FTC-Equipment-Tracker/releases)

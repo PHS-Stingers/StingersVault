@@ -24,4 +24,4 @@ First functional version created on 03/09/2026.
 
 ### Important:
 [studica.co](https://studio.co) has a clause in their [Terms Of Use](https://www.studica.co/terms-of-use) that prohibits us from scraping their site for part names, SKUs, etc. If we want to use the data from their site we would need to ask for permission.
-[Rev](https://www.revrobotics.com/) and [goBUILDA](https://www.gobilda.com/) do not have any such clauses, as far as I am aware.
+[Rev](https://www.revrobotics.com/), [goBUILDA](https://www.gobilda.com/) and [AndyMark](https://andymark.com/) do not have any such clauses, as far as I am aware.
